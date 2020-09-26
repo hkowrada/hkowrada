@@ -1,5 +1,5 @@
-<h2> Hi, I'm Harish KOWRADA! <img src="https://media.giphy.com/media/efekGoJMGlbpolOC1F/giphy.gif" width="50"></h2>
-	<img align='right' src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="230">
+<h2> Hi, I'm Harish KOWRADA! <img src="https://media.giphy.com/media/efekGoJMGlbpolOC1F/giphy.gif" width="100"></h2>
+	<img align='right' src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="250">
 		<p>
 			<em>Worked as Cloud Admin at <a href="https://www.dxc.technology/">DXC Technology</a>
 				<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Worked as Cloud Admin at <a href="https://www.cgsinc.com/en">Computer Generated Solutions</a>
@@ -13,7 +13,7 @@
 				```javascript
 				const Harish = {
 				pronouns: "He" | "his",
-				code: [Python, Java, Hadoop, Spark, HTML, R, Shiny, SQL/NOSQL, C],
+				code: [Python, Java, Hadoop, Spark, HTML, R, Shiny, SQL, C],
 				tools: [Pyspark, Apache Kafka, HBase, GitHub, Kubernetes, Docker],
 				architecture: ["micro Services"],
 				ToDo: {
@@ -21,24 +21,8 @@
 				Cloudera: "CCP Data Engineer",
 				Learn: "Boxing"
 				},
-				InProgress: {
-				Certification: "AWS Solution Architect: Associate ",
-				My_First_Data_Lake: "Python_Labs[DSTI]",
-				Python&SQL : "Flask & Webscrapping"
-				Labs: "Hadoop&Spark Ecosystem"
-				Labs: "Devops"
-				mentor: "assansanogo" 
-				mentor: "DSTI"
-				},
-				Completed: {
-				R Project: "Airbnb dataset using R/Shiny ",
-				NOSQL: "Neo4j/Python",
-				XML: "model for insurance company"
-				Python: "Flask & S3, Webscrapping with beautifulsoup"
-				Tableau: "projecting servers disk spaces"
-				Python: "Chat box"
-				},
-				challenge: "Yet to start, #Completing my master's thesis"
+				
+				challenge: "Yet to start #Completing my master's thesis"
 				}
 				```
 				<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
