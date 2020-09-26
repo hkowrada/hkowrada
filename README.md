@@ -1,5 +1,5 @@
 <h2> Hi, I'm Harish KOWRADA! <img src="https://media.giphy.com/media/efekGoJMGlbpolOC1F/giphy.gif" width="100"></h2>
-<img align='right' src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="230">
 <p><em>Worked as Cloud Admin at <a href="https://www.dxc.technology/">DXC Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Worked as Cloud Admin at <a href="https://www.cgsinc.com/en">Computer Generated Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Data Enginnering at <a href="https://www.datasciencetech.institute/">DSTI University</a><img src="https://media1.tenor.com/images/533ff46997a48a366cad44d8eb2a2ff6/tenor.gif?itemid=10604108" width="40">
 </em></p>
 
