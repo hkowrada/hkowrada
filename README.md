@@ -1,6 +1,6 @@
 <h2> Hi, I'm Harish KOWRADA! <img src="https://media.giphy.com/media/efekGoJMGlbpolOC1F/giphy.gif" width="100"></h2>
 <img align='right' src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="250">
-<p><em>Worked as Cloud Admin at <a href="https://www.dxc.technology/">DXC Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Worked as Cloud Admin at <a href="https://www.cgsinc.com/en">Computer Generated Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Data Enginnering at <a href="https://www.datasciencetech.institute/">DSTI University</a><img src="https://media.giphy.com/media/3otO6zntMrmhpvaYX6/giphy.gif" width="30">
+<p><em>Worked as Cloud Admin at <a href="https://www.dxc.technology/">DXC Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Worked as Cloud Admin at <a href="https://www.cgsinc.com/en">Computer Generated Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Data Enginnering at <a href="https://www.datasciencetech.institute/">DSTI University</a><img src="https://media.giphy.com/media/1BeGxAOxkzFBdHvDrQ/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: kowrada](https://img.shields.io/badge/-kowrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kowrada/)](https://www.linkedin.com/in/kowrada/)
@@ -20,6 +20,23 @@ const Harish = {
 		Cloudera: "CCP Data Engineer",
 		Learn: "Boxing"
 	},
+  InProgress: {
+				Certification: "AWS Solution Architect: Associate ",
+				My_First_Data_Lake: "Python_Labs[DSTI]",
+				Python&SQL : "Flask & Webscrapping",
+				Labs: "Hadoop&Spark Ecosystem",
+				Labs: "Devops",
+				mentor: "assansanogo", 
+				mentor: "DSTI"
+		},
+  Completed: {
+				R Project: "Airbnb dataset using R/Shiny ",
+				NOSQL: "Neo4j/Python",
+				XML: "model for insurance company",
+				Python: "Flask & S3, Webscrapping with beautifulsoup",
+				Tableau: "projecting servers disk spaces",
+				Python: "Chat box"
+		},
  challenge: "Yet to start #Completing my master's thesis"
 }
 ```
