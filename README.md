@@ -15,11 +15,15 @@ const Harish = {
   code: [Python, Java, Hadoop, Spark, HTML, R, Shiny, SQL, C],
   tools: [Pyspark, Apache Kafka, HBase, GitHub, Kubernetes, Docker],
   architecture: ["micro Services"],
-  ToDo: {
-  		Preparation: "Azure Data Engineer: Associate ",
-		Cloudera: "CCP Data Engineer",
-		Learn: "Boxing"
-	},
+  InProgress: {
+		Certification: "AWS Solution Architect: Associate ",
+		My_First_Data_Lake: "Python_Labs[DSTI]",
+		Python&SQL : "Flask & Webscrapping",
+		Labs: "Hadoop&Spark Ecosystem",
+		Labs: "Devops",
+		mentor: "assansanogo", 
+		mentor: "DSTI"
+	       },
  
  challenge: "Yet to start #Completing my master's thesis"
 }
