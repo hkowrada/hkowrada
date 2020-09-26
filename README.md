@@ -16,9 +16,9 @@ const Harish = {
   tools: [Pyspark, Apache Kafka, HBase, GitHub, Kubernetes, Docker],
   architecture: ["micro Services"],
   ToDo: {
-  		Preparation: "Azure Data Engineer: Associate ",
-		Cloudera: "CCP Data Engineer",
-		Learn: "Boxing"
+  				Preparation: "Azure Data Engineer: Associate ",
+				Cloudera: "CCP Data Engineer",
+				Learn: "Boxing"
 	},
   InProgress: {
 				Certification: "AWS Solution Architect: Associate ",
