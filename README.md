@@ -1,6 +1,6 @@
 <h2> Hi, I'm Harish KOWRADA! <img src="https://media.giphy.com/media/efekGoJMGlbpolOC1F/giphy.gif" width="100"></h2>
 <img align='right' src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="300">
-<p><em>Worked as Cloud Admin at <a href="https://www.dxc.technology/">DXC Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Worked as Cloud Admin at <a href="https://www.cgsinc.com/en">Computer Generated Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Data Enginnering at <a href="https://www.datasciencetech.institute/">DSTI University</a><img src="https://media.giphy.com/media/1BeGxAOxkzFBdHvDrQ/giphy.gif" width="30">
+<p><em>Worked as Cloud Admin at <a href="https://www.dxc.technology/">DXC Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Worked as Cloud Admin at <a href="https://www.cgsinc.com/en">Computer Generated Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Data Enginnering at <a href="https://www.datasciencetech.institute/">DSTI University</a><img src="https://media1.tenor.com/images/533ff46997a48a366cad44d8eb2a2ff6/tenor.gif?itemid=10604108" width="30">
 </em></p>
 
 [![Linkedin: kowrada](https://img.shields.io/badge/-kowrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kowrada/)](https://www.linkedin.com/in/kowrada/)
