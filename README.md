@@ -16,26 +16,26 @@ const Harish = {
   tools: [Pyspark, Apache Kafka, HBase, GitHub, Kubernetes, Docker],
   architecture: ["micro Services"],
   ToDo: {
-  				Preparation: "Azure Data Engineer: Associate ",
-				Cloudera: "CCP Data Engineer",
-				Learn: "Boxing"
+  		Preparation: "Azure Data Engineer: Associate ",
+		Cloudera: "CCP Data Engineer",
+		Learn: "Boxing"
 	},
   InProgress: {
-				Certification: "AWS Solution Architect: Associate ",
-				My_First_Data_Lake: "Python_Labs[DSTI]",
-				Python&SQL : "Flask & Webscrapping",
-				Labs: "Hadoop&Spark Ecosystem",
-				Labs: "Devops",
-				mentor: "assansanogo", 
-				mentor: "DSTI"
+		Certification: "AWS Solution Architect: Associate ",
+		My_First_Data_Lake: "Python_Labs[DSTI]",
+		Python&SQL : "Flask & Webscrapping",
+		Labs: "Hadoop&Spark Ecosystem",
+		Labs: "Devops",
+		mentor: "assansanogo", 
+		mentor: "DSTI"
 		},
   Completed: {
-				R Project: "Airbnb dataset using R/Shiny ",
-				NOSQL: "Neo4j/Python",
-				XML: "model for insurance company",
-				Python: "Flask & S3, Webscrapping with beautifulsoup",
-				Tableau: "projecting servers disk spaces",
-				Python: "Chat box"
+		R Project: "Airbnb dataset using R/Shiny ",
+		NOSQL: "Neo4j/Python",
+		XML: "model for insurance company",
+		Python: "Flask & S3, Webscrapping with beautifulsoup",
+		Tableau: "projecting servers disk spaces",
+		Python: "Chat box"
 		},
  challenge: "Yet to start #Completing my master's thesis"
 }
