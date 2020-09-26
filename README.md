@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="250">
 <p><em>Worked as Cloud Admin at <a href="https://www.dxc.technology/">DXC Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Worked as Cloud Admin at <a href="https://www.cgsinc.com/en">Computer Generated Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Data Enginnering at <a href="https://www.datasciencetech.institute/">DSTI University</a><img src="https://media.giphy.com/media/3otO6zntMrmhpvaYX6/giphy.gif" width="30">
 </em></p>
-[![Linkedin: kowrada](https://img.shields.io/badge/-kowrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kowrada/)](https://www.linkedin.com/in/kowrada/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub hkowrada](https://img.shields.io/github/followers/hkowrada?label=follow&style=social)](https://github.com/hkowrada)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
