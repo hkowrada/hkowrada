@@ -13,18 +13,15 @@
 ```javascript
 const Harish = {
   pronouns: "He" | "his",
-  code: [Python, Hadoop, Spark, SQL, Hive],
   tools: [Pyspark, Apache Kafka, HBase, GitHub, Kubernetes, Docker],
-  architecture: ["micro Services"],
   InProgress: {
-		Certification: "Azure Data Fundamentals  ",
-		My_First_Data_Lake: "Python_Labs[DSTI]",
-		Python&SQL : "Flask & Webscrapping",
+		Certification: "Neo4j",
+		My_First_Data_Lake: "Azure Datalake by using Azure data factory",
 		Labs: "Hadoop&Spark Ecosystem",
 		Labs: "Devops"
 	       },
  
- challenge: "Yet to start #Completing my master's thesis"
+ challenge: "Apache Spark Cluster on Docker"
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
