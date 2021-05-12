@@ -14,7 +14,7 @@
 const Harish = {
   pronouns: "He" | "his",
   tools: [Pyspark, Apache Kafka, HBase, GitHub, Kubernetes, Docker],
-  InProgress: {
+  Completed: {
 		Certification: "Neo4j",
 		My_First_Data_Lake: "Azure Datalake by using Azure data factory",
 		Labs: "Hadoop&Spark Ecosystem",
